@@ -1,0 +1,26 @@
+   $                     NAME                ITEM#
+--------------------------------------------
+ 2.09			Panadol			ITEM# 1
+ 7.09			Tylenol			ITEM# 2
+ 8.75			Leflox			ITEM# 3
+ 9.85			Insulin			ITEM# 4
+ 11.9			Somogel			ITEM# 5
+ 67.9			Levitra			ITEM# 6
+ 6.77			Valium			ITEM# 7
+ 9.45			Dafflon			ITEM# 8
+ 12.0			Amoxicil		ITEM# 9
+ 11.0			Hydrillin		ITEM# 10
+ 23.4			Rigix			ITEM# 11
+ 10.1			Calpol			ITEM# 12
+ 5.60			Britanyl		ITEM# 13 
+ 6.67			Montekulast		ITEM# 14
+ 15.7			Telfast			ITEM# 15
+ 1.60			Ciproxin		ITEM# 16
+ 34.l6			Lysovit			ITEM# 17
+ 8.88			Singulair		ITEM# 18
+ 8.09			Xanax			ITEM# 19
+ 23.90			Dispirin		ITEM# 20
+ 2.671			Vitamin A		ITEM# 21
+ 2.22			Vitamin B12		ITEM# 22
+ 2.333			Vitamin C		ITEM# 23
+ 24.6			Vitamin E		ITEM# 24

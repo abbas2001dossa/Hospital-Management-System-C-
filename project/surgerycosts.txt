@@ -1,0 +1,28 @@
+CYROSURGERY: $ 333.34
+LASERS: $ 444.0
+PHOTODYNAMIC THERAPY: $ 467.87
+HYPERTHERMIA: $ 500.34
+endovascular treatment of aneurysms and tumors: $ 233.34
+Root Canal: $ 322.23
+Dental Implants: $ 200.2
+Wisdom Tooth Extraction: $ 237.23
+ReconstructiveSurgery: $ 623
+Laparoscopicsurgery: $ 365
+Radical nephrectomy: $ 432
+Partialnephrectomy: $ 386
+RETINAL RE-ATTACHMENT / DE-ATTACHMENT: $ 478.23
+CATARACT: $ 400
+Acoustic NeuromaSurgery: $ 567
+CochlearImplant: $ 127
+Myringotomy Eardrum Repair: $ 433
+Augmentation: $ 344
+Rhinoplasty: $ 677
+Craniotomy: $ 721
+Deep brain stimulation (DBS): $ 344 
+Neuroendoscopy: $ 233
+Thrombectomy and cerebral aneurysmrepair: $967
+Heart valve repair or replacement: $ 344
+Mazesurgery: $ 500
+Aneurysm: $ 344
+Heart transplant: $ 800
+

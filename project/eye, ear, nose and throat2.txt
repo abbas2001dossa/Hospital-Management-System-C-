@@ -1,0 +1,8 @@
+TERESA LISBON 
+MR# 10000006
+EYE,EAR,NOSE AND THROAT
+MONDAY     11-1 pm     12-2 pm     
+TUESDAY    11-1 pm     12-2 pm      
+WEDNESDAY  11-1 pm     12-2 pm     
+THURSDAY   11-1 pm     12-2 pm     
+FRIDAY     11-1 pm     12-2 pm     
